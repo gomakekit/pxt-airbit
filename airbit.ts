@@ -19,7 +19,7 @@ enum PingUnit {
 /**
  * makecode BMP280 digital pressure sensor Package.
  * From microbit/micropython Chinese community.
- * http://www.micropython.org.cn
+ * http://www.micropython.org.cn sdgfds
  */
 
 
