@@ -8,11 +8,12 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "airbit.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
