@@ -7,6 +7,8 @@
 // This code is currently for internal use only, 
 // not to be shared or published without written agreement with Henning Pedersen
 
+
+
 enum PingUnit {
     //% block="μs"
     MicroSeconds,
@@ -27,7 +29,11 @@ enum PingUnit {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0040ff icon=""
+
+//"\uf072"
+
+
+//% weight=50 color=#0040ff icon="\ufa-arrows"
 namespace AirBit {
     /**
      * Set of code blocks for the Drone
