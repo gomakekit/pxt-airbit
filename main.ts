@@ -168,7 +168,7 @@ let batteryMilliVolt = 0
 let buzzer = 0
 let lowBatteryLimit = 0
 let batteryFactor = 0
-let radioGroup = 11
+let radioGroup = 16
 basic.showNumber(radioGroup)
 batteryFactor = 4.42
 lowBatteryLimit = 3450
